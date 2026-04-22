@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ameyuriringgo305-hub.github.io/sahabattoto305mantap/sitemap.xml
+Sitemap: https://ameyuriringgo305-hub.github.io/sitemap.xml
